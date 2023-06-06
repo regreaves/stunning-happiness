@@ -1,1 +1,1 @@
-export default const constant = 'This is it.';
+export const constant = 'This is it.';
