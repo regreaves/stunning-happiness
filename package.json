@@ -1,0 +1,7 @@
+{
+  "name": "stunning-happiness",
+  "exports": {
+    ".": "./index.mjs"
+  },
+  "version": "1.0.0"
+}
